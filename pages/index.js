@@ -1,5 +1,5 @@
 import Head from "next/head";
-import dbConnect from "../lib/dbConnect";
+import dbConnect from "../lib/dbconnect";
 import Movie from "../models/Movie";
 import Link from "next/link";
 
